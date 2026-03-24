@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/EnrouteMed/static/js/main.fcddc8bc.js",
+    "index.html": "/EnrouteMed/index.html",
+    "main.fcddc8bc.js.map": "/EnrouteMed/static/js/main.fcddc8bc.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fcddc8bc.js"
+  ]
+}

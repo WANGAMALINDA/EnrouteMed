@@ -2,7 +2,7 @@
   "name": "enroutmed",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://enroutemed.com/",
+  "homepage": "https://wangamalinda.github.io/EnrouteMed/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
